@@ -2,17 +2,17 @@ $(document).ready(function(){
 
 
   var playlist = [{
-      title:"Hidden",
-      artist:"Miaow",
+      title:"zabje",
+      artist:"sie",
       mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
       oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
       poster: "https://i.imgur.com/sCbrzQa.png"
     },{
-      title:"Cro Magnon Man",
-      artist:"The Stark Palace",
-      mp3:"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
-      oga:"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
-      poster: "https://i.imgur.com/lXvsuBu.png"
+      title:"prosze",
+      artist:"dzialaj",
+      mp3:"https://github.com/koririri/muzyka2/raw/main/Muzyka%20z%20cyrku.mp3",
+      oga:"",
+      poster: "https://imgur.com/a/ViZoV4p.png"
     },{
       title:"Bubble",
       m4a: "http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a",
