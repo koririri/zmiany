@@ -5,7 +5,7 @@ $(document).ready(function(){
       title:"zabje",
       artist:"sie",
       mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
-      oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
+      oga:"https://www.linkpicture.com/q/328866500_713970867129083_5317127075114920566_n.jpg",
       poster: "https://i.imgur.com/sCbrzQa.png"
     },{
       title:"prosze",
@@ -17,7 +17,7 @@ $(document).ready(function(){
       title:"Bubble",
       m4a: "http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a",
       oga: "http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg",
-      poster: "https://i.imgur.com/klJKSVZ.jpg"
+      poster: "https://www.linkpicture.com/q/328866500_713970867129083_5317127075114920566_n.jpg"
   }];
   
   var cssSelector = {
